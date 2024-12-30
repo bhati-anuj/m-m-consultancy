@@ -79,9 +79,7 @@ const DefaultHeader = ({ contactButton, cartButton }) => {
                     <div className="header-logo">
                       <Link href="/">
                         <figure>
-                          <h3 className="text-light" >
-                            M&M Consultancy
-                          </h3>
+                        <h3 className="text-light">M&M Consultancy</h3>
                           {/* <img src={appData.header.logo.image} alt={appData.header.logo.alt} /> */}
                         </figure>
                       </Link>
